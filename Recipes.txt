@@ -10,4 +10,4 @@ pasta
 maggi
 added new receipes successfully
 
-Thank you message
+Thank you
